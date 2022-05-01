@@ -4,16 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## TODOS:
 
-**Short time goals:**
-
 - Add more item types to the table.
 - Organize code base. (clean code, split big components into smaller ones, maybe install a state management library like [MobX](https://mobx.js.org/react-integration.html))
 - Sort items by `Category`. (maybe sorting for other stats as well?)
 - Fix any potential bugs. (create issues with reproducible steps in order to help to fix them)
-
-**Long time goals:**
-
-- create a build calculator by adding items(shields, weapons, armors, etc...) to a character( with a selectable class) & output the final stats of the build. ⚠️ I accept contributions for this :) ⚠️
 
 ## Available Scripts
 
