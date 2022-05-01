@@ -17,7 +17,7 @@ import TableSortLabel from '@mui/material/TableSortLabel'
 import { InputUnstyled } from '@mui/base'
 import { upperCaseFirstLetter } from '../utils/utils.js'
 
-const ItemList = () => {
+const ListItems = () => {
     const [filteredItemsByName, setFilteredItemsByName] = useState([])
     const [itemType, setItemType] = useState('weapons')
     const [items, setItems] = useState([])
@@ -179,4 +179,4 @@ const ItemList = () => {
     )
 }
 
-export default ItemList
+export default ListItems
